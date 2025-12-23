@@ -7,7 +7,8 @@ It manages users, vehicles, and bookings while ensuring proper relationships thr
 
 ## Technologies Used
 - PostgreSQL (Relational Database)
-- SQL 
+- SQL
+- drawsql
 
 ---
 
