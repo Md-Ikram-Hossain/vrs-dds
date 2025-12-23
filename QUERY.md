@@ -104,6 +104,7 @@ This document describes the SQL Queries for the Vehicle Rental System, including
 | 1    | Toyota Corolla | 3 |
 
 ###query
+---
 SELECT
   b.booking_id,
   u.name AS customer_name,
